@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicki
-- 👀 I’m interested in software engineering, specifically AI and ML engineering
+- 👀 I’m interested in software engineering, specifically data science and ML engineering
 - 🌱 I’m currently learning data structures and algorithms paired with C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: nickixsharma@gmail.com
