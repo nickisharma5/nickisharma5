@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nicki
 - 👀 I’m interested in data science and working with AI/ML.
 - 🌱 I’m currently a pursuing a BSci in Computing & Software Systems
-- 📫 How to reach me: nickixsharma@gmail.com, https://www.linkedin.com/in/nicki-sharma-50b67a221/
+- 📫 How to reach me: vrisharma05@gmail.com, https://www.linkedin.com/in/nicki-sharma-50b67a221/
 - 😄 Pronouns: she/her
 - ⚡ Fun Fact: I'm really bad at fun facts. 
   
